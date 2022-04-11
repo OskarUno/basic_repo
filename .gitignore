@@ -1,0 +1,6 @@
+# Tarea sobre el uso de gitignore
+
+packages/
+secret.js
+*.txt
+log*
